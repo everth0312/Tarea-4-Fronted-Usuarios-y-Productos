@@ -9,5 +9,5 @@ npm install
 ## Start App
 
 ```
-npm start
+npm run dev
 ```
